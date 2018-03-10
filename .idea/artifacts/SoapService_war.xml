@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SoapService:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="soapservice.war">
+      <element id="artifact" artifact-name="SoapService:war exploded" />
+    </root>
+  </artifact>
+</component>
